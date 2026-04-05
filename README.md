@@ -3,7 +3,7 @@
 
 ### 1. 🗜️ asclaude-compact (v1.0.0)
 
-**文件名**: `asclaude-compact-1.0.0.tar.gz` (11KB)
+**文件名**: `session-compact-1.0.0.tar.gz` (11KB)
 
 **简介**:
 智能会话压缩工具，基于 Claude Code 的 Session Memory Compact 机制。自动归档长对话、生成结构化摘要、节省 90-98% tokens，零成本运行（不调用 LLM）。
@@ -49,7 +49,7 @@ session-compact-1.0.0/
 
 ### 2. 🔍 asclaude-grep (v1.0.0)
 
-**文件名**: `asclaude-grep-1.0.0.tar.gz` (6.4KB)
+**文件名**: `file-search-tools-1.0.0.tar.gz` (6.4KB)
 
 **简介**:
 智能文件搜索工具，提供 GrepTool（内容搜索）和 GlobTool（路径匹配）两大功能。支持正则表达式、上下文行、通配符匹配、JSON 输出，速度快、零成本、精准搜索。
